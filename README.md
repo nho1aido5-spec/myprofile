@@ -12,8 +12,7 @@ This repository contains three Java console applications created as a learning/t
 
 | Main class | 内容 (Description) |
 |---|---|
-| `teamwork01.teamapp1` | 簡単なユーザー登録・ログイン (simple in-memory registration/login) |
-| `teamwork01.test2` | 収入・支出・予算を管理するコンソールアプリ (income, expense and budget tracker) |
+
 | `teamwork01.testgame01` | 音声効果を使用する「Tokyo Survival」ゲーム (text-based survival game with audio effects) |
 
 ## 技術 (Technologies)
